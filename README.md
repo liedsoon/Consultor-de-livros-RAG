@@ -74,3 +74,7 @@ streamlit run app.py
 3. A resposta será gerada com base no conteúdo lido e indexado.
 
 ---
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e1ca8ebc-bd55-4914-8a3d-47e3457a048d" width="1000px" />
+<img src="https://github.com/user-attachments/assets/eb8365ef-5c47-435e-8140-a42f0c956426" width="1000px" />
+</div>
