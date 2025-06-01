@@ -1,4 +1,4 @@
-# 📚 Chat com Documentos (PDF e EPUB) usando RAG + Mistral-Saba (Groq)
+# 📚 Sistema RAG com consultas Inteligentes
 
 Aplicação Streamlit que permite **carregar arquivos PDF ou EPUB** e fazer perguntas com base no conteúdo utilizando **RAG (Retrieval-Augmented Generation)**, **FAISS** para busca semântica e o modelo **Mistral-Saba-24B via API da Groq**.
 
