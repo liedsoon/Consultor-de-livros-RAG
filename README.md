@@ -19,8 +19,7 @@ Aplicação Streamlit que permite **carregar arquivos PDF ou EPUB** e fazer perg
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/.....
-cd chat-livros-groq
+git clone https://github.com/liedsoon/Consultor-de-livros-RAG.git
 ```
 
 ### 2. Crie um ambiente virtual (opcional, mas recomendado)
